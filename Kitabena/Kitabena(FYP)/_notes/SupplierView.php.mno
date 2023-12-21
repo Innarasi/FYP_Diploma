@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Supplier" value="name:name;datatype:string,name:Contact Number;datatype:int,name:email;datatype:string,name:address;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Stock" value="name:Name;datatype:string,name:Price;datatype:real,name:Quantity;datatype:int,name:Serial Number;datatype:string" />
+	<infoitem key="UD_Stock2" value="name:Name;datatype:string,name:Price;datatype:real,name:Quantity;datatype:int,name:Serial Number;datatype:string" />
+</info>
